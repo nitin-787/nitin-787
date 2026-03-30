@@ -1,65 +1,94 @@
-<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> I'm Nitin</h1>
+<div align="center">
 
-## 🌐 Socials
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; How to reach me: **nitinsharma.devx@gmail.com**<br>
-<br/>
-<a href="https://www.youtube.com/c/MrBioNik">
-  <img align="left" width="32px" src="https://i.pinimg.com/originals/46/02/cb/4602cbc18967da9c1eba7452905cd99b.png" />
-</a>
-<a href="https://discord.com/users/947741502304550912">
-  <img align="left" width="32px" src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" />
-</a>
-<br/>
-<br/>
+# Hi I'm, Nitin Sharma
 
-<div align="center" width="50">
-  
-![Totals Hits](https://komarev.com/ghpvc/?username=nitin-787&style=flat&color=orange&label=PROFILE+VIEWS)
-[![telegram badge](https://img.shields.io/badge/ukiyo-grey?style=flat&logo=telegram)](https://t.me/benihimearatamee) <br>
-</div>
+### ⚡ Open Source Architect | GSoC '22 | Full-Stack Engineer ⚡
 
-<hr></hr>
-
-<h3 align="left">Languages and Tools:</h3> 
-<br/>
-<p align="left">
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code> 
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code> 
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code> 
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<!--END_SECTION:activity-->
-</details>
-
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Go & Blender**.
-  <img align="right" src="https://github.com/user-attachments/assets/4bbfbe06-ec16-43c4-939d-bd916f2526b2" alt="nitin" width="25%" /><br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Anime, or anything**. <br>
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Python is named after **Monty Python** not the snake. 🐍🎭.<br>
-
+[**Portfolio**](https://linkedin.com/in/nitin787) • [**Resume**](https://github.com/nitin-787/resume-nitinsharma/blob/main/nitin_resume.pdf) • [**Articles**](https://www.geeksforgeeks.org/profile/nitinsharma29?tab=articles)
 
 <div align="center">
- <h3>Some Cool Github Stats:</h3> 
+  <img src="https://komarev.com/ghpvc/?username=nitin-787&style=flat&color=orange&label=PROFILE+VIEWS" height="25" />
 </div>
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nitin-787&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nitin-787&theme=tokyonight" />
+
+</div>
+
+---
+
+### 🌌 **How to Reach Me**
+
+<p align="left">
+  <a href="https://twitter.com/_nitin787">
+    <img src="https://skillicons.dev/icons?i=twitter" height="45" alt="Twitter" />
+  </a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/nitin787">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:nitinsharma.devx@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.geeksforgeeks.org/profile/nitinsharma29?tab=articles">
+    <img src="https://skillicons.dev/icons?i=htmx" alt="GeeksforGeeks" />
+  </a>&nbsp;&nbsp;
+  <a href="https://discord.com/users/947741502304550912">
+    <img src="https://skillicons.dev/icons?i=discord" height="45" alt="Discord" />
+  </a>
 </p>
 
-[twitter]: https://twitter.com/nitinn787
-[youtube]: https://www.youtube.com/c/MrBioNik
-[instagram]: https://www.instagram.com/nitin787_/
-[linkedin]: https://www.linkedin.com/in/nitin787/
+### ⛩️ System Status
 
-<h3 align="center"> Show some ❤️ by starring some of the repositories!!</h3>
+- **Current Quest**: Mastering **Go** backend architecture and **Blender** 3D modeling.
+- **The Blueprint**: Architected **Uni-Share**, an academic ecosystem with **40+ forks** and a real-time notification engine.
+- **Impact**: Optimized CI/CD pipelines during **GSoC** to achieve a **30% reduction** in build failures.
+- **Reach**: Authored technical cloud documentation read by over **10,000+ unique developers**.
+
+---
+
+### 🛠️ The Arsenal (Tech Stack)
+
+| Category         | Skillset                                                                |
+| :--------------- | :---------------------------------------------------------------------- |
+| **Languages**    | `Go (Golang)`, `TypeScript`, `C/C++`, `SQL`, `Java`                     |
+| **Frameworks**   | `Flutter`, `React`, `Node.js`, `Express.js`, `Provider`, `BLOC`         |
+| **Cloud/DevOps** | `AWS (EC2, S3)`, `Firebase`, `Docker`, `GitHub Actions`, `CI/CD`, `Git` |
+| **Tools**        | `PostgresSQL`, `Postman`, `VS Code`, `Figma`, `Linux/Bash`, `LaTeX`     |
+
+---
+
+### ⚔️ Proven Campaigns (Experience)
+
+- **Google Summer of Code '22 @CCExtractor**
+  - Authored **16+ production-ready commits** for a global codebase.
+  - Reduced technical debt by **15%** through rigorous documentation and modular design.
+- **Technical Content Writer @GeeksforGeeks**
+  - Published high-traffic Docker/AWS documentation with a **4.5/5 reader rating**.
+  - Educated a community of **5,000+ monthly readers** on cloud infrastructure.
+- **Project Maintainer @Hacktoberfest '22**
+  - Mentored **15+ developers** and automated the open-source contribution lifecycle.
+
+---
+
+### 🧪 Secret Projects (Artifacts)
+
+- **Ayumi GPT**: AI-integrated mobile client with **98% uptime** and local-first persistence.
+
+* **Uni-Share**: Engineered a notification engine via **FCM** with **<200ms synchronization latency**.
+
+---
+
+### 🏮 Spirit Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitin-787&theme=tokyonight&border_radius=10&hide_border=true" width="48%" />
+</div>
+
+<br />
+
+### 🏁 The Final Word
+
+<p align="center">
+  "In the realm of code, I am a relentless architect, building scalable ecosystems by day and exploring the Linux kernel by night. With a passion for open source and a drive to innovate, I strive to create impactful solutions that empower developers worldwide."
+</h3>
+
+</p>
+</div>
+</div>
